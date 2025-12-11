@@ -68,5 +68,5 @@ Click Reset to set count back to zero
 
 📦 Build for Production
 npm run build
-<img width="1905" height="1022" alt="image" src="https://github.com/user-attachments/assets/bdecffdb-a090-4dad-889c-f9c943df5e66" />
+<img width="1905" height="1022" alt="CounterApp" src="https://github.com/user-attachments/assets/2e13f19c-19ba-42c3-94a3-8497725cea63" />
 
