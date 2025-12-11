@@ -9,6 +9,8 @@ This project helps you understand core React concepts such as **components**, **
 ## Preview
 A basic UI with a counter and buttons to increase/decrease the value.
 
+<img width="1905" height="1022" alt="CounterApp" src="https://github.com/user-attachments/assets/405958c9-2fe8-42c8-9a59-156ce1c8416b" />
+
 ---
 
 ## ✨ Features
